@@ -1,4 +1,4 @@
-# by velox — Portfolio / RU
+# Velox Portfolio / RU
 
 Одностраничное портфолио фронтенд-разработчика на русском языке.
 
