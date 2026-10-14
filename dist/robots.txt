@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alexey-portfolio-ru-2026.warmsiren32.chatgpt.site/sitemap.xml
