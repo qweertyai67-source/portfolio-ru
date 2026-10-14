@@ -1,4 +1,4 @@
-# Alexey Portfolio / RU
+# by velox — Portfolio / RU
 
 Одностраничное портфолио фронтенд-разработчика на русском языке.
 
